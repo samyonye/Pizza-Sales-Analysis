@@ -127,18 +127,17 @@ These insights highlight product concentration and customer preference patterns.
 The Power BI dashboard includes multiple visualization types to communicate insights clearly:
 
 KPI Cards: Display overall business performance metrics.
-Press enter or click to view image in full size
+
 
 Bar Charts:
 Top 5 and Bottom 5 pizzas by revenue, quantity, and orders.
-Press enter or click to view image in full size
 
 Line and Area Charts:
 Monthly and daily order trends.
 
 Donut Charts:
 Percentage contribution of sales by pizza category and revenue by pizza size.
-Press enter or click to view image in full size
+
 
 Slicers:
 Pizza category and order date filters for interactive exploration.
